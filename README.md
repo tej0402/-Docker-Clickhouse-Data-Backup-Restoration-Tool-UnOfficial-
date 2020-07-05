@@ -34,7 +34,6 @@ $ sudo ./clickhousebackup.sh
 ### Screenshots
 ![Alt text](/images/ch1.JPG?raw=true)
 ![Alt text](/images/ch2.JPG?raw=true)
-![Alt text](/images/ch3.JPG?raw=true)
 ![Alt text](/images/ch4.JPG?raw=true)
 ![Alt text](/images/ch5.JPG?raw=true)
 ![Alt text](/images/ch6.JPG?raw=true)
